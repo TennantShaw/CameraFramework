@@ -1,11 +1,9 @@
 # cameraframework
 
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-TODO: Put more badges here.
 
 > A camera built using Swift 4. Used for taking still images with either the front or back camera of the device.
 
-TODO: Fill out this long description.
 
 ## Table of Contents
 
@@ -30,7 +28,7 @@ TODO: Fill out this long description.
 
 ## Maintainers
 
-[@@TennantShaw](https://github.com/@TennantShaw)
+[@TennantShaw](https://github.com/@TennantShaw)
 
 ## Contribute
 
