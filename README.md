@@ -15,6 +15,7 @@
 - [License](#license)
 
 ## Background
+This CameraFramework comes from a course taken via LinkedIn Learning. I liked the idea of reusable code and took the course to further my knowledge.
 
 ## Install
 
